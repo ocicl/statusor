@@ -1,0 +1,10 @@
+* statusor
+
+A library for graceful handling of errors in common lisp inspired by absl::StatusOr<T>
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/erjoalgo/statusor.git   |
+| commit  | fad6c4e  |
+| systems | statusor |
+|---------+-------------------------------------------|
+
